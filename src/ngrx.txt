@@ -1,0 +1,6 @@
+What is ngrx store??
+
+A store is an object (an instance of the ngrx Store class) that brings 
+the things we mentioned before (Actions, Reducers, Selectors) together. 
+For example, when an action is dispatched (using the store object dispatch function), 
+the store is the one finding and executing the appropriate reducer
